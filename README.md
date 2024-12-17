@@ -53,7 +53,7 @@ Follow these steps to set up and run the project:
 3. Run the model training script:
     ```bash
     python train_model.py
-#Usage
+## Usage
 After installing the dependencies and setting up the project, follow these steps to use the model:
 
 Prepare your dataset:
@@ -64,10 +64,10 @@ Train the model:
 Run the train_model.py script to train the Random Forest Regressor model using the provided dataset.
 
 
-#Evaluate the model:
+## Evaluate the model:
    After training, the script will output performance metrics like MSE and R-squared to evaluate the model's prediction accuracy.
 
-#Contributing
+## Contributing
    We welcome contributions from the community! If you have suggestions, improvements, or bug fixes, feel free to fork the repository and submit a pull request. Here are some ways you can contribute:
    
  -  💡 Feature requests: Suggest new features for the project.
