@@ -70,14 +70,14 @@ Run the train_model.py script to train the Random Forest Regressor model using t
 #Contributing
    We welcome contributions from the community! If you have suggestions, improvements, or bug fixes, feel free to fork the repository and submit a pull request. Here are some ways you can contribute:
    
-   💡 Feature requests: Suggest new features for the project.
-   🐞 Bug fixes: Identify and fix bugs in the code.
-   📖 Documentation: Improve or add to the documentation.
-   To contribute:
+ -  💡 Feature requests: Suggest new features for the project.
+  - 🐞 Bug fixes: Identify and fix bugs in the code.
+   -📖 Documentation: Improve or add to the documentation.
+   -To contribute:
    
-   Fork the repository.
-   Create a new branch (git checkout -b feature/your-feature).
-   Make your changes and commit them (git commit -am 'Add feature').
-   Push your branch to your forked repository (git push origin feature/your-feature).
-Open a pull request with a description of your changes.
+  - Fork the repository.
+   -Create a new branch (git checkout -b feature/your-feature).
+   -Make your changes and commit them (git commit -am 'Add feature').
+   -Push your branch to your forked repository (git push origin feature/your-feature).
+-Open a pull request with a description of your changes.
 
